@@ -32,28 +32,17 @@ CineFlix is a React-based movie discovery application powered by The Movie Datab
 
 Screenshots of the CineFlix interface will be added here.
 
-Suggested screenshots:
+### 🏠 Home Page
+![CineFlix Home Page](Screenshots/home.png)
 
-- Home page and movie collections
-- Movie search results
-- Movie details and trailer modal
-- My List with saved movies
+### 🔍 Movie Search
+![CineFlix Search Results](Screenshots/search.png)
 
-To add screenshots, create a `screenshots` folder in the project root and place your images inside it.
+### 🎬 Movie Details
+![CineFlix Movie Details](Screenshots/movie-details.png)
 
-Then add image references such as:
-
-```markdown
-![CineFlix Home Page](screenshots/home.png)
-
-![CineFlix Search Results](screenshots/search.png)
-
-![CineFlix Movie Details](screenshots/movie-details.png)
-
-![CineFlix My List](screenshots/my-list.png)
-```
-
-Use the actual filenames of your screenshots.
+### ❤️ My List
+![CineFlix My List](Screenshots/my-list.png)
 
 ## 🚀 Getting Started
 
