@@ -30,19 +30,17 @@ CineFlix is a React-based movie discovery application powered by The Movie Datab
 
 ## 📸 Screenshots
 
-Screenshots of the CineFlix interface will be added here.
-
 ### 🏠 Home Page
-![CineFlix Home Page](Screenshots/home.png)
+![CineFlix Home Page](Screenshots/Home_page.png)
 
 ### 🔍 Movie Search
-![CineFlix Search Results](Screenshots/search.png)
+![CineFlix Movie Search](Screenshots/Movie_search_page.png)
 
 ### 🎬 Movie Details
-![CineFlix Movie Details](Screenshots/movie-details.png)
+![CineFlix Movie Details](Screenshots/Movie_about_page.png)
 
 ### ❤️ My List
-![CineFlix My List](Screenshots/my-list.png)
+![CineFlix My List](Screenshots/My_list_page.png)
 
 ## 🚀 Getting Started
 
